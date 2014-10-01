@@ -1,0 +1,40 @@
+
+<section style="display:box">
+    <section style="box-flex:2;">lefft</section>
+    <section style="box-flex:3;">right</section>
+</section>
+
+
+
+color:#e8e8e8; /*页面背景也是这个颜色*/
+text-shadow: 2px 2px 2px #333, 0px 0px 5px #666;/*移位两次，正数就会凸出来，阴影颜色接近反色*/
+font-size: 30px;
+font-weight:bold;
+text-align:right;
+margin-top:15px;
+
+
+
+.reflect{
+      background-image:url(images/icons/top.png);
+      width:32px; 
+      height:32px; 
+      -webkit-transform: scaleY(-1); 
+      -moz-transform: scaleY(-1); 
+      -ms-transform: scaleY(-1); 
+      transform: scaleY(-1); 
+      filter:alpha(opacity='80'); 
+      opacity: 0.8;
+    }
+
+
+.shadow{
+      position: relative;
+      top:-32px;
+      left:0px;
+      height:32px;
+      width:32px;
+      background-image: -moz-linear-gradient(center bottom, rgb(227,227,227) 30%, rgba(255,255,255,0) 100%); 
+      background-image: -webkit-gradient(linear, center bottom, center top, color-stop(0.3, rgb(227,227,227)), color-stop(0.7, rgba(255,255,255,0))); 
+      filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColor=#e8e8e8, EndColorStr=#ffffff); 
+    }
