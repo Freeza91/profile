@@ -34,7 +34,7 @@
 
 属完全创业项目，后期因投资人问题，团队解散。
 
-## 极客公园 （ 2015年3月 ~ 至今 ）
+## 极客公园(2015年3月 ~ 至今)
 
 ### [Geekpark-wiki](https://github.com/GeekPark/Geek_Wiki)
 基于gollum的wiki系统，两人开发，我负责后台构建和服务器维护。
@@ -60,7 +60,7 @@
 
 - [mina](https://github.com/mina-deploy/mina/pull/349) : 已经合入最新分支
 - [jpush](https://github.com/jpush/jpush-api-ruby-client/pull/6) ：已经得到jpush官方修复
-- [ruby-taiwan-wiki](https://github.com/rubytaiwan/ruby-taiwan/pull/111/files)：gollum操作wiki问题
+- [ruby-taiwan-wiki](https://github.com/rubytaiwan/ruby-taiwan/pull/111)：gollum操作wiki问题
 - [极客公园微信订餐服务](https://github.com/dofy/parker)：丰富和完善微信订餐
 
 # 技能清单
@@ -74,7 +74,7 @@
 - 前端工具：Gulp/Rails assets pipeline
 - 数据库相关：MySQL/pg/Mongodb/redis
 - 版本管理、文档和自动化部署工具：Git/Swagger/Mina/pm2
-- Java, Android, C
+- Java/[Android](https://github.com/Freeza91/miao), C
 - [docker](https://github.com/Freeza91/rabbitmq-demo)
 
 # 兴趣爱好
