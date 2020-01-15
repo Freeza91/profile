@@ -47,11 +47,6 @@
 
 使用到的有Rails + Redis + Postgresql + Sidekiq + 七牛视频多媒体服务 + 微信红包 + mina部署。
 
-## e袋洗(2016年4月 ~ 2016年6月)
-### 众包
-主要是在维护众包的平台，同时了解了e袋洗这边的微服务架构和Zombie(各个服务调用的Gem)模型。
-## 开源项目和作品
-
 ### 开源项目
 
  - [baidu_ocr](https://github.com/Freeza91/baidu_ocr) 一个基于百度开放平台OCR的gem包
